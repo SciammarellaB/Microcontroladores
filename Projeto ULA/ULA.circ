@@ -715,6 +715,21 @@
     <comp lib="5" loc="(3970,170)" name="LED">
       <a name="facing" val="south"/>
     </comp>
+    <comp lib="8" loc="(1217,2424)" name="Text">
+      <a name="text" val="Carry Filter"/>
+    </comp>
+    <comp lib="8" loc="(1231,728)" name="Text">
+      <a name="text" val="8 x 1 MUX"/>
+    </comp>
+    <comp lib="8" loc="(1233,228)" name="Text">
+      <a name="text" val="8 x 1 MUX"/>
+    </comp>
+    <comp lib="8" loc="(1236,1731)" name="Text">
+      <a name="text" val="8 x 1 MUX"/>
+    </comp>
+    <comp lib="8" loc="(1246,1231)" name="Text">
+      <a name="text" val="8 x 1 MUX"/>
+    </comp>
     <comp lib="8" loc="(1391,40)" name="Text">
       <a name="text" val="S3"/>
     </comp>
@@ -793,6 +808,9 @@
     <comp lib="8" loc="(507,767)" name="Text">
       <a name="text" val="XOR"/>
     </comp>
+    <comp lib="8" loc="(512,2871)" name="Text">
+      <a name="text" val="INC A"/>
+    </comp>
     <comp lib="8" loc="(541,936)" name="Text">
       <a name="text" val="A=B"/>
     </comp>
@@ -827,9 +845,9 @@
     <wire from="(1010,1910)" to="(1170,1910)"/>
     <wire from="(1010,2060)" to="(1010,2110)"/>
     <wire from="(1010,2060)" to="(1120,2060)"/>
-    <wire from="(1010,2110)" to="(1010,2460)"/>
+    <wire from="(1010,2110)" to="(1010,2450)"/>
     <wire from="(1010,2110)" to="(1170,2110)"/>
-    <wire from="(1010,2460)" to="(1170,2460)"/>
+    <wire from="(1010,2450)" to="(1170,2450)"/>
     <wire from="(1010,360)" to="(1010,410)"/>
     <wire from="(1010,360)" to="(1120,360)"/>
     <wire from="(1010,410)" to="(1010,560)"/>
